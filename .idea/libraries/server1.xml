@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="server1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExamPrep2/03.The-Step-Challenge_Resources/server.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
